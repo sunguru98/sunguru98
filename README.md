@@ -39,5 +39,4 @@ I'm Sundeep from India, who is trying his best to learn Rust language as much as
 
 ## 🔹 Reclaim Protocol – ZK Witness Partial Port to Solana
 **Repository:** [reclaim-solana-sdk](https://github.com/reclaimprotocol/reclaim-solana-sdk)  
-**Context:** Ported Ethereum-based zero-knowledge witness signature verification (v, r, s) to Solana. Tasked with translating EVM-centric logic to Solana-native constructs in under a week.
-**sunguru98/sunguru98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Context:** Ported Ethereum-based zero-knowledge witness signature verification (v, r, s) to Solana. Tasked with translating EVM-centric logic to Solana-native constructs in under a week. 
